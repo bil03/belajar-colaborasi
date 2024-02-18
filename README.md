@@ -1,2 +1,2 @@
 # belajar-colaborasi
-test
+test 2
